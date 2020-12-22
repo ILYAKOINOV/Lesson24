@@ -1,4 +1,4 @@
-# RubySchool, Lesson22
+# RubySchool, Lesson24
 ======================
 
-Repository for Lesson22
+Repository for Lesson24
